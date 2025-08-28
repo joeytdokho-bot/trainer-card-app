@@ -15,7 +15,7 @@ A Next.js app for building Pokemon trainer cards with a complete Pokedex of 1,02
    ```
 
 3. **Open your browser:**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+  
 
 ## Features
 
